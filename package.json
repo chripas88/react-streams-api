@@ -2,9 +2,10 @@
   "name": "react-streams-api",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server -p 4000 -w db.json"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
