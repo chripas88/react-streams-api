@@ -1,3 +1,58 @@
 {
-	"streams": []
+	"streams": [
+		{
+			"title": "Stream_1",
+			"description": "This is stream 1",
+			"userId": "113215093425223577994",
+			"id": 1
+		},
+		{
+			"title": "Stream_2",
+			"description": "This is stream 2",
+			"userId": "113215093425223577995",
+			"id": 2
+		},
+		{
+			"title": "Stream_3",
+			"description": "This is stream 3",
+			"userId": "113215093425223577995",
+			"id": 3
+		},
+		{
+			"title": "Stream_4",
+			"description": "This is stream 4",
+			"userId": "113215093425223577995",
+			"id": 4
+		},
+		{
+			"title": "Stream_5",
+			"description": "This is stream 5",
+			"userId": "113215093425223577995",
+			"id": 5
+		},
+		{
+			"title": "Stream_6",
+			"description": "This is stream 6",
+			"userId": "113215093425223577995",
+			"id": 6
+		},
+		{
+			"title": "Stream_7",
+			"description": "This is stream 7",
+			"userId": "113215093425223577995",
+			"id": 7
+		},
+		{
+			"title": "Stream_8",
+			"description": "This is stream 8",
+			"userId": "113215093425223577995",
+			"id": 8
+		},
+		{
+			"title": "Stream_9",
+			"description": "This is stream 9",
+			"userId": "113215093425223577995",
+			"id": 9
+		}
+	]
 }
